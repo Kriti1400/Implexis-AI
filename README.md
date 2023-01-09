@@ -1,4 +1,4 @@
-# Implexis-AI, who are we?
+# Implexis-AI
 
 We are Implexis AI and we are using AI to unite people through consensus.
 
